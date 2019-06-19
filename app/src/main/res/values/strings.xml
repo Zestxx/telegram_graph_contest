@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TeleGraph</string>
+    <string name="line_type_joined">Joined</string>
+    <string name="line_type_left">Left</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="followers">Followers</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#436481</color>
+    <color name="colorPrimaryDark">#537DA0</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimary_dark_theme">#212D3A</color>
+    <color name="colorPrimaryDark_dark_theme">#1A242E</color>
+
+    <color name="black">#000000</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_range_selector_overlay">#B3F8F8FE</color>
+    <color name="color_range_selector_overlay_dark">#B31A242E</color>
+    <color name="color_range_selector_border">#66C8DADA</color>
+    <color name="color_default_axis_line">#DDDDDD</color>
+    <color name="text_color">#3C9DD4</color>
+
+</resources>
